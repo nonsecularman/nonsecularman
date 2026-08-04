@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="KRISH NONSECULARMAN Banner"/>
-</p>
-
-<h1 align="center">KRISH / NONSECULARMAN</h1>
+<h1 align="center">Hi 👋, I'm Krish</h1>
 
 <p align="center">
-  <strong>Full Stack Developer • Telegram Bot Developer • AI Tool Builder • Open Source Enthusiast</strong>
+  <strong>a.k.a. nonsecularman — Full Stack Developer | Telegram Bot Developer | Builder of Cool Stuff</strong>
 </p>
 
 <p align="center">
@@ -15,7 +11,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nonsecularman&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/nonsecularman?label=Followers&style=for-the-badge&color=8A2BE2"/>
-  <img src="https://img.shields.io/github/stars/nonsecularman?label=Stars&style=for-the-badge&color=8A2BE2"/>
 </p>
 
 <p align="center">
@@ -26,7 +21,7 @@
 
 ---
 
-# Terminal
+## Terminal
 
 ```bash
 krish@nonsecularman:~$ whoami
@@ -50,7 +45,7 @@ krish@nonsecularman:~$ _
 
 ---
 
-# Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,nodejs,nestjs,mongodb,redis,docker,linux,git,github,vscode,html,css,js,ts"/>
@@ -58,41 +53,34 @@ krish@nonsecularman:~$ _
 
 ---
 
-# GitHub Dashboard
+## 📊 GitHub Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nonsecularman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nonsecularman&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=nonsecularman&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonsecularman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=nonsecularman&theme=tokyonight&no-frame=true&row=2&column=3" height="170"/>
 </p>
 
 ---
 
-# Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nonsecularman&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nonsecularman/nonsecularman/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
-<p align="center"><sub>Learn. Build. Repeat.</sub></p>
-
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-## MommyXMusic
+### MommyXMusic
 
 Full-stack music streaming platform with modern UI and powerful backend.
 
@@ -101,7 +89,7 @@ Full-stack music streaming platform with modern UI and powerful backend.
 </td>
 <td width="50%">
 
-## Whisper
+### Whisper
 
 Anonymous real-time chat platform with ephemeral messages.
 
@@ -112,7 +100,7 @@ Anonymous real-time chat platform with ephemeral messages.
 <tr>
 <td width="50%">
 
-## Telegram Music Bot
+### Telegram Music Bot
 
 Advanced Telegram music bot with playlist, inline search, and streaming support.
 
@@ -121,7 +109,7 @@ Advanced Telegram music bot with playlist, inline search, and streaming support.
 </td>
 <td width="50%">
 
-## FastAPI Starter
+### FastAPI Starter
 
 Production-ready FastAPI boilerplate with authentication, Docker, and best practices.
 
@@ -132,7 +120,7 @@ Production-ready FastAPI boilerplate with authentication, Docker, and best pract
 <tr>
 <td width="50%">
 
-## VPS Deploy Scripts
+### VPS Deploy Scripts
 
 One-command deployment scripts for Ubuntu/Linux VPS.
 
@@ -141,7 +129,7 @@ One-command deployment scripts for Ubuntu/Linux VPS.
 </td>
 <td width="50%">
 
-## AI Utilities
+### AI Utilities
 
 Collection of AI-powered tools to automate daily workflows.
 
@@ -153,7 +141,7 @@ Collection of AI-powered tools to automate daily workflows.
 
 ---
 
-# Current Focus
+## 🎯 Current Focus
 
 * Building scalable Telegram bots
 * Real-time web applications
@@ -163,7 +151,7 @@ Collection of AI-powered tools to automate daily workflows.
 
 ---
 
-# Connect
+## 🌐 Connect
 
 <p align="center">
   <a href="https://t.me/nonsecularman"><img src="https://img.shields.io/badge/Telegram-@nonsecularman-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
